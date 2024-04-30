@@ -1,0 +1,18 @@
+Arrays
+
+Def- List of Elements of same type placed at a contiguous memory location.
+
+Syntax: dataType arrayName[] = new dataType[size];
+int marks[] = new int[50]; // khali hia ye array
+int numbers[] = {1,2,3}; //size 3
+int moreNumbers[] = {4,5,6}; //size 3
+String fruits[] = {"apple", "mango", "orange}; //size 3
+
+
+4444444
+4333334
+4322234
+4321234
+4322234
+4333334
+4444444
